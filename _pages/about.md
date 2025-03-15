@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Tel. (646)175-05-00 ext: 26514</p>
+    <p>Carr. Tijuana-Ensenada 3918</p>
+    <p>Zona Playitas, 22860 Ensenada, B.C.</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Investigador en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Mi trabajo se centra en la geodesia satelital y la sismología, disciplinas que me permiten analizar y comprender los movimientos de la corteza terrestre y su relación con la actividad sísmica.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A lo largo de mi carrera, he participado en diversos proyectos de investigación que buscan desentrañar los procesos geofísicos que ocurren en regiones tectónicamente activas. Además, he contribuido al avance del conocimiento en mi campo a través de publicaciones en revistas especializadas y colaboraciones con colegas de distintas instituciones.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+En el ámbito académico, he tenido el honor de formar parte de comités de tesis en CICESE, asesorando a estudiantes de posgrado en sus investigaciones sobre sismología y geodesia. Por ejemplo, fui miembro del comité de tesis de la maestría de Elsy Marleth Torres Sánchez, cuyo trabajo se centró en el estudio de la atenuación sísmica en la región norte del Golfo de California.
+
+Mi compromiso con la ciencia y la educación me motiva a seguir investigando y contribuyendo al desarrollo de nuevas metodologías que permitan una mejor comprensión de los fenómenos naturales y la mitigación de riesgos asociados a la actividad sísmica.
