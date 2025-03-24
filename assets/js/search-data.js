@@ -440,16 +440,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+          section: "News",},{id: "projects-ciclo-sísmico",
+          title: 'Ciclo Sísmico',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-procesos-deformación-natural-y-antropogénica",
+          title: 'Procesos deformación natural y antropogénica',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-volcanes-y-subducción",
+          title: 'Volcanes y Subducción',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
