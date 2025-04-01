@@ -42,7 +42,7 @@ category: work
   </div>
 
   <div class="col-md-4 text-center">
-    <img src="/assets/img/3avolsub.png" class="img-fluid rounded" style="max-width: 300px;" alt="Figura 18">
+    <img src="/assets/img/3avolsub.jpg" class="img-fluid rounded" style="max-width: 300px;" alt="Figura 18">
     <p style="font-size: 0.9em; margin-top: 10px;"><em>Figura 18 – Deformación por evento SSE en Oaxaca (InSAR + GPS)</em></p>
   </div>
 </div>
