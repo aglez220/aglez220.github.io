@@ -23,6 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>Tel. (646)175-05-00 ext: 26540, e-mail: erodriguez@cicese.mx</p> 
-    <p>Carr. Tijuana-Ensenada 3918</p>
-    <p>Zona Playitas, 22860 Ensenada, B.C.</p>
+     <p>Carr. Tijuana-Ensenada 3918</p>
+     <p>Zona Playitas, 22860 Ensenada, B.C.</p>
 ---
