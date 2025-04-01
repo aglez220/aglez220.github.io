@@ -43,7 +43,7 @@ category: work
       </p>
     </td>
     <td style="width: 30%; text-align: center;">
-      <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+      <div id="carouselSismo" class="carousel slide" data-bs-ride="carousel" style="max-width: 250px; margin: auto;">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="/assets/img/2ciclo.png" class="d-block w-100" alt="Imagen 1">
@@ -52,16 +52,17 @@ category: work
             <img src="/assets/img/3ciclo.png" class="d-block w-100" alt="Imagen 2">
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon"></span>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselSismo" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-          <span class="carousel-control-next-icon"></span>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselSismo" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
         </button>
       </div>
     </td>
   </tr>
 </table>
+
 
 
 - En este trabajo se modela el sismo El Mayor Cucapah Mw7.2 del 4 de abril de 2010 a través de la inversión conjunta de datos de GPS, InSAR y desplazamiento óptico de píxeles. En un entorno numérico de elementos finitos 3D con multifallas en donde se evalúan los efectos de la topografía y las heterogeneidades del medio. Con ello, los resultados indican que el efecto de la topografía es insignificante mientras que la inclusión de heterogeneidades incrementa el deslizamiento en profundidad. Estos hallazgos sugieren que el sismo tiene un deslizamiento más alto y concentrado, con una mayor caída de esfuerzo en profundidad. Pulvirenti, F., Liu , Z., Lundgren, P., González Ortega, J. A., & Aloisi, M. (2020). New fault slip distribution for the 2010 Mw 7.2 El Mayor Cucapah earthquake based on realistic 3D finite element inversions of coseismic displacements using space geodetic data. Journal of Geophysical Research: Solid Earth. doi: 10.1029/2020JB020016.
