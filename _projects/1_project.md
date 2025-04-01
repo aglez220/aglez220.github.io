@@ -16,7 +16,7 @@ category: work
     </p>
   </div>
   <div class="col-md-4 text-center">
-    <img src="/assets/img/1ciclo.png" class="img-fluid rounded" style="max-width: 300px;" alt="Diagrama">
+    <img src="/assets/img/1ciclo.png" class="img-fluid rounded" style="max-width: 300px;" alt="Diagrama del modelo de bloques tectónicos basado en datos InSAR y GPS">
   </div>
 </div>
 
