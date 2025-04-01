@@ -29,29 +29,44 @@ category: work
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="/assets/img/2ciclo.png" alt="Imagen 1" style="width: 45%; border-radius: 8px;">
-  <img src="/assets/img/3ciclo.png" alt="Imagen 2" style="width: 45%; border-radius: 8px;">
+  <img src="/assets/img/2ciclo.png" alt="Imagen 1" style="max-width: 45%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/3ciclo.png" alt="Imagen 2" style="max-width: 45%; height: auto; border-radius: 8px;">
 </div>
 
 
-- En este trabajo se modela el sismo El Mayor Cucapah Mw7.2 del 4 de abril de 2010 a través de la inversión conjunta de datos de GPS, InSAR y desplazamiento óptico de píxeles. En un entorno numérico de elementos finitos 3D con multifallas en donde se evalúan los efectos de la topografía y las heterogeneidades del medio. Con ello, los resultados indican que el efecto de la topografía es insignificante mientras que la inclusión de heterogeneidades incrementa el deslizamiento en profundidad. Estos hallazgos sugieren que el sismo tiene un deslizamiento más alto y concentrado, con una mayor caída de esfuerzo en profundidad. Pulvirenti, F., Liu , Z., Lundgren, P., González Ortega, J. A., & Aloisi, M. (2020). New fault slip distribution for the 2010 Mw 7.2 El Mayor Cucapah earthquake based on realistic 3D finite element inversions of coseismic displacements using space geodetic data. Journal of Geophysical Research: Solid Earth. doi: 10.1029/2020JB020016.
+<div style="text-align: justify;">
+  <p>
+    - En este trabajo se modela el sismo El Mayor Cucapah Mw7.2 del 4 de abril de 2010 a través de la inversión conjunta de datos de GPS, InSAR y desplazamiento óptico de píxeles. En un entorno numérico de elementos finitos 3D con multifallas en donde se evalúan los efectos de la topografía y las heterogeneidades del medio. Con ello, los resultados indican que el efecto de la topografía es insignificante mientras que la inclusión de heterogeneidades incrementa el deslizamiento en profundidad. Estos hallazgos sugieren que el sismo tiene un deslizamiento más alto y concentrado, con una mayor caída de esfuerzo en profundidad.<br><br>
+    Pulvirenti, F., Liu , Z., Lundgren, P., González Ortega, J. A., & Aloisi, M. (2020). <em>New fault slip distribution for the 2010 Mw 7.2 El Mayor Cucapah earthquake based on realistic 3D finite element inversions of coseismic displacements using space geodetic data.</em> Journal of Geophysical Research: Solid Earth. doi: 10.1029/2020JB020016.
+  </p>
+</div>
 
-<p align="center">
- <img src="/assets/img/4ciclo.png" width="200">
-</p>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/assets/img/4ciclo.png" alt="Figura relacionada" style="max-width: 250px; height: auto; border-radius: 8px;">
+</div>
 
-- El objetivo del presente trabajo es el de estimar el momento sísmico del evento El Mayor-Cucapah y su magnitud Mw, por medio del empleo de datos de GPS de alta frecuencia (5Hz) y obtener así la cinemática de los desplazamientos cosísmicos. Ello, a través de los espectros de desplazamiento cinemático y en su comparación y complementariedad con la doble integración de los datos de aceleración. Se utiliza un modelo simple de fuente sísmica para estimar la magnitud del sismo Mw=7.19±0.13, lo que concuerda con el Mw 7.2 obtenido en otros estudios del sismo de El Mayor-Cucapah. Robles Avalos, J. C., González Ortega, J. A., González García, J. J., & Vidal Villegas, J. A. (2019). Coseismic displacements and Mw estimation of the El Mayor-Cucapah earthquake, Mexico, from GPS source spectra. Geofísica Internacional, 58(2), 169-178. doi: 10.22201/igeof.00167169p.2018.58.2.1968. Robles Avalos, J. C. 2017.Desplazamiento permanente y dinámico generado por el temblor El Mayor-Cucapah Mw 7.2, utilizando GPS. Tesis de Maestría en Ciencias. Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California. xii, 75 hojas. LINK TESIS. https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=24900
+<div style="text-align: justify;">
+  <p>
+    - El objetivo del presente trabajo es el de estimar el momento sísmico del evento El Mayor-Cucapah y su magnitud Mw, por medio del empleo de datos de GPS de alta frecuencia (5Hz) y obtener así la cinemática de los desplazamientos cosísmicos. Ello, a través de los espectros de desplazamiento cinemático y en su comparación y complementariedad con la doble integración de los datos de aceleración. Se utiliza un modelo simple de fuente sísmica para estimar la magnitud del sismo Mw=7.19±0.13, lo que concuerda con el Mw 7.2 obtenido en otros estudios del sismo de El Mayor-Cucapah.<br><br>
+    Robles Avalos, J. C., González Ortega, J. A., González García, J. J., & Vidal Villegas, J. A. (2019). <em>Coseismic displacements and Mw estimation of the El Mayor-Cucapah earthquake, Mexico, from GPS source spectra.</em> Geofísica Internacional, 58(2), 169-178. doi: 10.22201/igeof.00167169p.2018.58.2.1968.<br><br>
+    Robles Avalos, J. C. (2017). <em>Desplazamiento permanente y dinámico generado por el temblor El Mayor-Cucapah Mw 7.2, utilizando GPS.</em> Tesis de Maestría en Ciencias. Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California. xii, 75 hojas. <a href="https://biblioteca.cicese.mx/catalogo/tesis/ficha.php?id=24900" target="_blank">LINK TESIS</a>.
+  </p>
+</div>
 
-<p align="center">
-  <img src="/assets/img/5ciclo.jpg" width="200">
-</p>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/assets/img/5ciclo.jpg" alt="Figura relacionada" style="max-width: 250px; height: auto; border-radius: 8px;">
+</div>
 
-- En este estudio se emplean datos continuos y temporales de GPS del norte de Baja California del período 1993.1–2010.1 para obtener el campo de deformación. Con ello se obtiene la acumulación de momento geodésico para evaluar el potencial de actividad sísmica de la región y compararla con la liberación sísmica de un catálogo de terremotos histórico e instrumental. Destacándose un déficit equivalente a sismo Mw7.6±0.1. Sin embargo, parte de este momento acumulado fue liberado por el sismo de Mw7.2, El Mayor–Cucapah en 2010. Estos resultados pueden coadyuvar a los estudios de peligro sísmico en la región del sur de California y norte de Baja California. González Ortega, J. A., González García, J. J., & Sandwell, D. (2018). Interseismic velocity field and seismic moment release in northern Baja California, Mexico. Seismological Research Letters, 89(2A), 526-533. doi: 10.1785/0220170133.
+<div style="text-align: justify;">
+  <p>
+    - En este estudio se emplean datos continuos y temporales de GPS del norte de Baja California del período 1993.1–2010.1 para obtener el campo de deformación. Con ello se obtiene la acumulación de momento geodésico para evaluar el potencial de actividad sísmica de la región y compararla con la liberación sísmica de un catálogo de terremotos histórico e instrumental. Destacándose un déficit equivalente a sismo Mw7.6±0.1. Sin embargo, parte de este momento acumulado fue liberado por el sismo de Mw7.2, El Mayor–Cucapah en 2010. Estos resultados pueden coadyuvar a los estudios de peligro sísmico en la región del sur de California y norte de Baja California.<br><br>
+    González Ortega, J. A., González García, J. J., & Sandwell, D. (2018). <em>Interseismic velocity field and seismic moment release in northern Baja California, Mexico.</em> Seismological Research Letters, 89(2A), 526–533. doi: 10.1785/0220170133.
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="/assets/img/6ciclo.png" alt="Figura 1" style="max-width: 45%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/7ciclo.png" alt="Figura 2" style="max-width: 45%; height: auto; border-radius: 8px;">
+</div>
 
 
-<p align="center">
-  <img src="/assets/img/6ciclo.png" width="200">
-</p>
-<p align="center">
-  <img src="/assets/img/7ciclo.png" width="200">
-</p>
