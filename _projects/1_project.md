@@ -9,13 +9,13 @@ category: work
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 25;">
+    <td style="vertical-align: top; width: 70;">
       <p>
         - Generación de un modelo de bloques tectónicos de los principales sistemas de fallas del norte de Baja California con base en el conjunto de datos de Interferometría de Imágenes de Radar de Apertura Sintética (InSAR) provenientes de la plataforma Satelital Sentinel-1 y datos de la Red Geodésica del Noroeste de México (REGNOM). Para obtener tasas de deslizamiento y acoplamiento intersismico, así como posibles eventos de deslizamiento asísmico en la región.<br><br>
         <strong>López Vega Jesús Eduardo.</strong> <em>Tasas de deslizamiento en el norte de Baja California: Un modelo de bloques construido a partir de datos InSAR y GPS.</em> Tesis de Maestría en Ciencias. En proceso. 2023–2025.
       </p>
     </td>
-    <td style="text-align: center; width: 200;">
+    <td style="text-align: center; width: 30;">
       <img src="/assets/img/1ciclo.png" width="200" alt="Diagrama">
     </td>
   </tr>
@@ -25,7 +25,7 @@ category: work
 - La región del norte de Baja California se caracteriza tectónicamente por tener diferentes sistemas de fallas activas, sismos de magnitud (Mw≥7) y enjambres sísmicos. Aquí se analizan las series de posición de la Red Geodésica del Noroeste de México (REGNOM) y sur de California por medio de algoritmos bayesianos de descomposición en componentes independientes para separar los mecanismos posismicos asociados al sismo El Mayor-Cucapah (Mw7.2) ocurrido el 4 de abril del 2010, en el Valle de Mexicali. Garcia-Meza I., Gonzalez-Ortega A., Ramon-Morales E., and Rodriguez-Orozco E. REGNOM GNSS SCEC-Community Geodetic Model for Crustal Deformation Studies. Group A, Poster #075, Tectonic Geodesy. SCEC Annual Meeting 2024. García Meza Ignacio Francisco. Deformación Viscoelástica y Sismicidad Posterior al Sismo El Mayor-Cucapah (Mw7.2) en el Norte de Baja California. Tesis de Doctorado en Ciencias. En proceso. 2021-2025.
 
 <p align="center">
-  <img src="/assets/img/2ciclo.png" width="200">
+  <img src="/assets/img/2ciclo.png" width="400">
 </p><p align="center">
   <img src="/assets/img/3ciclo.png" width="200">
 </p>
