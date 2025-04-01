@@ -29,18 +29,40 @@ category: work
     </p>
   </div>
   <div class="col-md-4 text-center">
-    <img src="/assets/img/1ciclo.png" class="img-fluid rounded" style="max-width: 200px;" alt="Diagrama">
+    <img src="/assets/img/1ciclo.png" class="img-fluid rounded" style="max-width: 300px;" alt="Diagrama">
   </div>
 </div>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 70%; vertical-align: top; text-align: justify; padding-right: 20px;">
+      <p>
+        - La región del norte de Baja California se caracteriza tectónicamente por tener diferentes sistemas de fallas activas, sismos de magnitud (Mw≥7) y enjambres sísmicos. Aquí se analizan las series de posición de la Red Geodésica del Noroeste de México (REGNOM) y sur de California por medio de algoritmos bayesianos de descomposición en componentes independientes para separar los mecanismos posismicos asociados al sismo El Mayor-Cucapah (Mw7.2) ocurrido el 4 de abril del 2010, en el Valle de Mexicali.<br><br>
+        Garcia-Meza I., Gonzalez-Ortega A., Ramon-Morales E., and Rodriguez-Orozco E. <em>REGNOM GNSS SCEC-Community Geodetic Model for Crustal Deformation Studies.</em> Group A, Poster #075, Tectonic Geodesy. SCEC Annual Meeting 2024.<br><br>
+        <strong>García Meza Ignacio Francisco.</strong> <em>Deformación Viscoelástica y Sismicidad Posterior al Sismo El Mayor-Cucapah (Mw7.2) en el Norte de Baja California.</em> Tesis de Doctorado en Ciencias. En proceso. 2021–2025.
+      </p>
+    </td>
+    <td style="width: 30%; text-align: center;">
+      <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="/assets/img/2ciclo.png" class="d-block w-100" alt="Imagen 1">
+          </div>
+          <div class="carousel-item">
+            <img src="/assets/img/3ciclo.png" class="d-block w-100" alt="Imagen 2">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- La región del norte de Baja California se caracteriza tectónicamente por tener diferentes sistemas de fallas activas, sismos de magnitud (Mw≥7) y enjambres sísmicos. Aquí se analizan las series de posición de la Red Geodésica del Noroeste de México (REGNOM) y sur de California por medio de algoritmos bayesianos de descomposición en componentes independientes para separar los mecanismos posismicos asociados al sismo El Mayor-Cucapah (Mw7.2) ocurrido el 4 de abril del 2010, en el Valle de Mexicali. Garcia-Meza I., Gonzalez-Ortega A., Ramon-Morales E., and Rodriguez-Orozco E. REGNOM GNSS SCEC-Community Geodetic Model for Crustal Deformation Studies. Group A, Poster #075, Tectonic Geodesy. SCEC Annual Meeting 2024. García Meza Ignacio Francisco. Deformación Viscoelástica y Sismicidad Posterior al Sismo El Mayor-Cucapah (Mw7.2) en el Norte de Baja California. Tesis de Doctorado en Ciencias. En proceso. 2021-2025.
-
-<p align="center">
-  <img src="/assets/img/2ciclo.png" width="400">
-</p><p align="center">
-  <img src="/assets/img/3ciclo.png" width="200">
-</p>
 
 - En este trabajo se modela el sismo El Mayor Cucapah Mw7.2 del 4 de abril de 2010 a través de la inversión conjunta de datos de GPS, InSAR y desplazamiento óptico de píxeles. En un entorno numérico de elementos finitos 3D con multifallas en donde se evalúan los efectos de la topografía y las heterogeneidades del medio. Con ello, los resultados indican que el efecto de la topografía es insignificante mientras que la inclusión de heterogeneidades incrementa el deslizamiento en profundidad. Estos hallazgos sugieren que el sismo tiene un deslizamiento más alto y concentrado, con una mayor caída de esfuerzo en profundidad. Pulvirenti, F., Liu , Z., Lundgren, P., González Ortega, J. A., & Aloisi, M. (2020). New fault slip distribution for the 2010 Mw 7.2 El Mayor Cucapah earthquake based on realistic 3D finite element inversions of coseismic displacements using space geodetic data. Journal of Geophysical Research: Solid Earth. doi: 10.1029/2020JB020016.
 
