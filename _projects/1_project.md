@@ -20,18 +20,32 @@ category: work
   </div>
 </div>
 
-<div style="text-align: justify;">
-  <p>
-    - La región del norte de Baja California se caracteriza tectónicamente por tener diferentes sistemas de fallas activas, sismos de magnitud (Mw≥7) y enjambres sísmicos. Aquí se analizan las series de posición de la Red Geodésica del Noroeste de México (REGNOM) y sur de California por medio de algoritmos bayesianos de descomposición en componentes independientes para separar los mecanismos posismicos asociados al sismo El Mayor-Cucapah (Mw7.2) ocurrido el 4 de abril del 2010, en el Valle de Mexicali.<br><br>
-    Garcia-Meza I., Gonzalez-Ortega A., Ramon-Morales E., and Rodriguez-Orozco E. <em>REGNOM GNSS SCEC-Community Geodetic Model for Crustal Deformation Studies.</em> Group A, Poster #075, Tectonic Geodesy. SCEC Annual Meeting 2024.<br><br>
-    <strong>García Meza Ignacio Francisco.</strong> <em>Deformación Viscoelástica y Sismicidad Posterior al Sismo El Mayor-Cucapah (Mw7.2) en el Norte de Baja California.</em> Tesis de Doctorado en Ciencias. En proceso. 2021–2025.
-  </p>
+<div class="row">
+  <!-- Texto arriba -->
+  <div class="col-12" style="text-align: justify;">
+    <p>
+      - La región del norte de Baja California se caracteriza tectónicamente por tener diferentes sistemas de fallas activas, sismos de magnitud (Mw≥7) y enjambres sísmicos. Aquí se analizan las series de posición de la Red Geodésica del Noroeste de México (REGNOM) y sur de California por medio de algoritmos bayesianos de descomposición en componentes independientes para separar los mecanismos posismicos asociados al sismo El Mayor-Cucapah (Mw7.2) ocurrido el 4 de abril del 2010, en el Valle de Mexicali.<br><br>
+      Garcia-Meza I., Gonzalez-Ortega A., Ramon-Morales E., and Rodriguez-Orozco E. <em>REGNOM GNSS SCEC-Community Geodetic Model for Crustal Deformation Studies.</em> Group A, Poster #075, Tectonic Geodesy. SCEC Annual Meeting 2024.<br><br>
+      <strong>García Meza Ignacio Francisco.</strong> <em>Deformación Viscoelástica y Sismicidad Posterior al Sismo El Mayor-Cucapah (Mw7.2) en el Norte de Baja California.</em> Tesis de Doctorado en Ciencias. En proceso. 2021–2025.
+    </p>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="/assets/img/2ciclo.png" alt="Imagen 1" style="max-width: 300px; height: auto; border-radius: 8px;">
-  <img src="/assets/img/3ciclo.png" alt="Imagen 2" style="max-width: 45%; height: auto; border-radius: 8px;">
+<!-- Imágenes lado a lado -->
+<div class="row justify-content-center" style="margin-top: 20px;">
+  <!-- Imagen 1 -->
+  <div class="col-md-5 text-center mb-4">
+    <img src="/assets/img/2ciclo.png" alt="Figura 2" class="img-fluid rounded" style="max-width: 100%;">
+    <p style="font-size: 0.9em; margin-top: 10px;"><em>Figura 2 – Procesamiento de la señal GNSS (1)</em></p>
+  </div>
+
+  <!-- Imagen 2 -->
+  <div class="col-md-5 text-center mb-4">
+    <img src="/assets/img/3ciclo.png" alt="Figura 3" class="img-fluid rounded" style="max-width: 100%;">
+    <p style="font-size: 0.9em; margin-top: 10px;"><em>Figura 3 – Procesamiento de la señal GNSS (2)</em></p>
+  </div>
 </div>
+
 
 <div class="row align-items-center">
   <div class="col-md-8" style="text-align: justify;">
