@@ -15,7 +15,7 @@ category: work
         <strong>López Vega Jesús Eduardo.</strong> <em>Tasas de deslizamiento en el norte de Baja California: Un modelo de bloques construido a partir de datos InSAR y GPS.</em> Tesis de Maestría en Ciencias. En proceso. 2023–2025.
       </p>
     </td>
-    <td style="text-align: center; width: 30%;">
+    <td style="text-align: center; width: 30;">
       <img src="/assets/img/1ciclo.png" width="200" alt="Diagrama">
     </td>
   </tr>
