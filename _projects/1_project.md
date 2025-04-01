@@ -16,7 +16,7 @@ category: work
       </p>
     </td>
     <td style="text-align: center; width: 30%;">
-      <img src="/assets/img/1ciclo.png" width="200" alt="Diagrama">
+      <img src="/assets/img/1ciclo.png" width="300" alt="Diagrama">
     </td>
   </tr>
 </table>
