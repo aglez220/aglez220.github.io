@@ -29,7 +29,7 @@ category: work
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="/assets/img/2ciclo.png" alt="Imagen 1" style="max-width: 45%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/2ciclo.png" alt="Imagen 1" style="max-width: 300px; height: auto; border-radius: 8px;">
   <img src="/assets/img/3ciclo.png" alt="Imagen 2" style="max-width: 45%; height: auto; border-radius: 8px;">
 </div>
 
