@@ -9,13 +9,13 @@ category: work
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 70;">
+    <td style="vertical-align: top; width: 70%;">
       <p>
         - Generación de un modelo de bloques tectónicos de los principales sistemas de fallas del norte de Baja California con base en el conjunto de datos de Interferometría de Imágenes de Radar de Apertura Sintética (InSAR) provenientes de la plataforma Satelital Sentinel-1 y datos de la Red Geodésica del Noroeste de México (REGNOM). Para obtener tasas de deslizamiento y acoplamiento intersismico, así como posibles eventos de deslizamiento asísmico en la región.<br><br>
         <strong>López Vega Jesús Eduardo.</strong> <em>Tasas de deslizamiento en el norte de Baja California: Un modelo de bloques construido a partir de datos InSAR y GPS.</em> Tesis de Maestría en Ciencias. En proceso. 2023–2025.
       </p>
     </td>
-    <td style="text-align: center; width: 30;">
+    <td style="text-align: center; width: 30%;">
       <img src="/assets/img/1ciclo.png" width="200" alt="Diagrama">
     </td>
   </tr>
