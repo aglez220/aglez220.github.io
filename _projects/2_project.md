@@ -23,19 +23,22 @@ category: work
   </div>
 </div>
 
+<div class="row align-items-center">
+  <!-- Texto justificado -->
+  <div class="col-md-8" style="text-align: justify;">
+    <p>
+      - Este estudio investiga la subsidencia de la cuenca de Cerro Prieto, Valle de Mexicali, utilizando técnicas InSAR multitemporales (SBAS e IPTA) aplicadas a imágenes Sentinel-1, para estimar la tasa y la serie temporal de desplazamiento superficial durante el período 2015–2023. En conjunto con investigaciones anteriores, esto permite reconstruir 30 años de evolución de la subsidencia en la cuenca y el campo geotérmico de Cerro Prieto.<br><br>
+      Sarychikhina, O., Glowacka, E., González-Ortega, J. A., García-Meza, I. F. (2025). <em>Three decades of subsidence monitoring in the Cerro Prieto basin, Mexicali Valley, using multi-temporal InSAR techniques.</em> Journal of South American Earth Sciences. <a href="https://doi.org/10.1016/j.jsames.2025.105375" target="_blank">https://doi.org/10.1016/j.jsames.2025.105375</a>.
+    </p>
+  </div>
 
-<p>
-  - Este estudio investiga la subsidencia de la cuenca de Cerro Prieto, Valle de Mexicali, utilizando técnicas InSAR multitemporales (SBAS e IPTA) a imágenes Sentinel-1 para estimar la tasa y serie temporal de desplazamiento superficial para el período 2015-2023. Ello, en conjunto con investigaciones anteriores permite reconstruir 30 años de evolución de la subsidencia en la cuenca y campo geotérmico de Cerro Prieto.  
-  <br><br>
-  Sarychikhina O., Glowacka E., González-Ortega J.A, Garcia-Meza I.F.  
-  <em>Three decades of subsidence monitoring in the Cerro Prieto basin, Mexicali Valley, using multi-temporal InSAR techniques.</em>  
-  Journal of South American Earth Sciences. 2025.  
-  <a href="https://doi.org/10.1016/j.jsames.2025.105375" target="_blank">https://doi.org/10.1016/j.jsames.2025.105375</a>.
-</p>
+  <!-- Imagen + subtítulo -->
+  <div class="col-md-4 text-center">
+    <img src="/assets/img/3defo.png" class="img-fluid rounded" style="max-width: 300px;" alt="Figura 15 – Subsidencia Cerro Prieto">
+    <p style="font-size: 0.9em; margin-top: 10px;"><em>Figura 15 – Subsidencia multitemporal en Cerro Prieto (SBAS + IPTA)</em></p>
+  </div>
+</div>
 
-<p align="center">
-  <img src="/assets/img/3defo.png" width="200" alt="Mapa de subsidencia en la cuenca de Cerro Prieto basado en InSAR multitemporal">
-</p>
 
 <!-- Fila 1: Texto + imagen -->
 <div class="row align-items-center">
