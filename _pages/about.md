@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Investigador en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Mi trabajo se centra en la geodesia satelital y la sismología, disciplinas que me permiten analizar y comprender los movimientos de la corteza terrestre y su relación con la actividad sísmica.
+Investigador   en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Mi trabajo se centra en la geodesia satelital y la sismología, disciplinas que me permiten analizar y comprender los movimientos de la corteza terrestre y su relación con la actividad sísmica.
 
 A lo largo de mi carrera, he participado en diversos proyectos de investigación que buscan desentrañar los procesos geofísicos que ocurren en regiones tectónicamente activas. Además, he contribuido al avance del conocimiento en mi campo a través de publicaciones en revistas especializadas y colaboraciones con colegas de distintas instituciones.
 
