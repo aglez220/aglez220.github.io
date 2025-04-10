@@ -28,10 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Investigador   en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Mi trabajo se centra en la geodesia satelital y la sismología, disciplinas que me permiten analizar y comprender los movimientos de la corteza terrestre y su relación con la actividad sísmica.
+¡Hola! soy investigador en el Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE). Mi trabajo se centra en la geodesia satelital y la sismología, disciplinas que nos permiten analizar y comprender los movimientos y deformación de la corteza terrestre y su relación con la actividad sísmica.
 
-A lo largo de mi carrera, he participado en diversos proyectos de investigación que buscan desentrañar los procesos geofísicos que ocurren en regiones tectónicamente activas. Además, he contribuido al avance del conocimiento en mi campo a través de publicaciones en revistas especializadas y colaboraciones con colegas de distintas instituciones.
+A lo largo de mi carrera, he participado en diversos proyectos de investigación relacionados con el ciclo sismico, los procesos de deformacion natural y antropogénica y, recientemente en volcanes y la zona de subducción en México. Además, de contribuir con un granito de arena al avance del conocimiento a través de publicaciones en revistas especializadas en colaboración con colegas de distintas instituciones.
 
-En el ámbito académico, he tenido el honor de formar parte de comités de tesis en CICESE, asesorando a estudiantes de posgrado en sus investigaciones sobre sismología y geodesia. Por ejemplo, fui miembro del comité de tesis de la maestría de Elsy Marleth Torres Sánchez, cuyo trabajo se centró en el estudio de la atenuación sísmica en la región norte del Golfo de California.
+En el ámbito académico, he tenido la oportunidad de dirigir tesis en el Posgrado de Ciencias de la Tierra en CICESE, asesorando a estudiantes en sus investigaciones relacionadas con la geodesia satelital (InSAR y GNSS) y sismología. 
 
-Mi compromiso con la ciencia y la educación me motiva a seguir investigando y contribuyendo al desarrollo de nuevas metodologías que permitan una mejor comprensión de los fenómenos naturales y la mitigación de riesgos asociados a la actividad sísmica.
+Mi compromiso con la ciencia, la educación y divulgacion me motiva a seguir investigando y contribuyendo al desarrollo de nuevas metodologías que permitan una mejor comprensión y observancia de la deformacion de la corteza a traves de la geodesia sateltal y la sismicidad, especialmente en el noroeste de México.
